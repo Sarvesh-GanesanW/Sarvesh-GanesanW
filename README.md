@@ -21,7 +21,6 @@
 ## 📫 How to reach me ...
 - 📧 Email: sarveshganesan2002@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/sarvesh-ganesan09](https://linkedin.com/in/sarvesh-ganesan09)
-- 📱 Phone: 8668063705
 
 ## 🚀 My Projects
 1. [LLM Chat](https://github.com/Sarvesh-GanesanW/LLM-Chat): A conversational chatbot using AWS Bedrock for NLP
